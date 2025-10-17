@@ -48,3 +48,16 @@ Final Testing will be
 
 Experiment 3 -> Test dataset -> result
 
+Final Results:
+
+                 Model  Accuracy  F1_macro
+                 
+  Logistic Regression  0.671141  0.667880
+
+          Naive Bayes  0.627517  0.631163
+
+      SVM (LinearSVC)  0.674497  0.670725
+
+         Random Forest  0.644295  0.644478
+
+              XGBoost  0.590604  0.585720
