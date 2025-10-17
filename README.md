@@ -30,19 +30,18 @@ All models will be trained each of experiment will be distributed to each model.
 Results of the model:
 Final F1 (macro) table (Model x Experiment):
 
-Experiment                1       2       3       4       5
+     Experiment                1       2       3       4       5
+     Model
 
-Model
+     Logistic Regression  0.7666  0.7755  0.7812  0.7939  0.8667
 
-Logistic Regression  0.7666  0.7755  0.7812  0.7939  0.8667
+     Naive Bayes          0.7353  0.7424  0.7398  0.7429  0.7945
 
-Naive Bayes          0.7353  0.7424  0.7398  0.7429  0.7945
+    Random Forest        0.7392  0.7465  0.7576  0.7616  0.9993
 
-Random Forest        0.7392  0.7465  0.7576  0.7616  0.9993
+     SVM (LinearSVC)      0.7505  0.7599  0.7697  0.7880  0.9251
 
-SVM (LinearSVC)      0.7505  0.7599  0.7697  0.7880  0.9251
-
-XGBoost              0.7589  0.7585  0.7687  0.7756  0.9056
+     XGBoost              0.7589  0.7585  0.7687  0.7756  0.9056
 
 Final Testing will be 
 
@@ -52,7 +51,7 @@ Final Results:
 
                  Model  Accuracy  F1_macro
                  
-  Logistic Regression  0.671141  0.667880
+    Logistic Regression  0.671141  0.667880
 
           Naive Bayes  0.627517  0.631163
 
