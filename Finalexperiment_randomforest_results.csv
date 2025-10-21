@@ -1,0 +1,2 @@
+Experiment,Model,Accuracy,F1_macro
+Final Experiment,Random Forest (Train: Orig+Para | Test: Test),0.730510752688172,0.7341415937556602
