@@ -45,18 +45,18 @@ Final F1 (macro) table (Model x Experiment):
 
 Final Testing will be 
 
-Experiment 3 -> Test dataset -> result
+Final Accuracy: 0.7305 | Final F1 (macro): 0.7341
 
-Final Results:
+Classification Report:
+              precision    recall  f1-score   support
 
-                 Model  Accuracy  F1_macro
-                 
-    Logistic Regression  0.671141  0.667880
+           1       0.68      0.74      0.71       248
+           2       0.76      0.70      0.73       248
+           3       0.82      0.61      0.70       248
+           4       0.53      0.73      0.61       248
+           5       0.83      0.88      0.85       248
+           6       0.90      0.73      0.80       248
 
-          Naive Bayes  0.627517  0.631163
-
-      SVM (LinearSVC)  0.674497  0.670725
-
-         Random Forest  0.644295  0.644478
-
-              XGBoost  0.590604  0.585720
+    accuracy                           0.73      1488
+   macro avg       0.75      0.73      0.73      1488
+weighted avg       0.75      0.73      0.73      1488
