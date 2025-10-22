@@ -45,18 +45,17 @@ Final F1 (macro) table (Model x Experiment):
 
 Final Testing will be 
 
-Final Accuracy: 0.7305 | Final F1 (macro): 0.7341
+      Final Accuracy: 0.7305 | Final F1 (macro): 0.7341
 
-Classification Report:
+      Classification Report:
               precision    recall  f1-score   support
-
+ 
            1       0.68      0.74      0.71       248
            2       0.76      0.70      0.73       248
            3       0.82      0.61      0.70       248
            4       0.53      0.73      0.61       248
            5       0.83      0.88      0.85       248
            6       0.90      0.73      0.80       248
-
-    accuracy                           0.73      1488
+     accuracy                          0.73      1488
    macro avg       0.75      0.73      0.73      1488
 weighted avg       0.75      0.73      0.73      1488
