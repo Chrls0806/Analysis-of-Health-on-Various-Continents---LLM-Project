@@ -56,6 +56,6 @@ Final Testing will be
            4       0.53      0.73      0.61       248
            5       0.83      0.88      0.85       248
            6       0.90      0.73      0.80       248
-     accuracy                          0.73      1488
-   macro avg       0.75      0.73      0.73      1488
-weighted avg       0.75      0.73      0.73      1488
+      accuracy                          0.73      1488
+    macro avg       0.75      0.73      0.73      1488
+  weighted avg       0.75      0.73      0.73      1488
